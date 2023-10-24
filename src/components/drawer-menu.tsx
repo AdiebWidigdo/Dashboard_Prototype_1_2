@@ -71,7 +71,7 @@ const DrawerMenu: FunctionComponent<DrawerMenuType> = ({ onClose }) => {
           <img
             className="relative w-[106px] h-16 object-cover cursor-pointer"
             alt=""
-            src="/terraquestlogobig-2@2x.png"
+            src="/terraquestlogobig-21@2x.png"
             onClick={onTerraquestLogoBig2ImageClick}
           />
           <img
@@ -94,7 +94,7 @@ const DrawerMenu: FunctionComponent<DrawerMenuType> = ({ onClose }) => {
               <img
                 className="relative rounded w-8 h-8 overflow-hidden shrink-0"
                 alt=""
-                src="/bxsdashboard.svg"
+                src="/bxsdashboard11.svg"
               />
               <div className="relative text-base tracking-[0.02em] leading-[100%] font-medium font-dm-sans text-dimgray text-left">
                 Dashboard
@@ -157,7 +157,7 @@ const DrawerMenu: FunctionComponent<DrawerMenuType> = ({ onClose }) => {
             <img
               className="relative w-4 h-4 overflow-hidden shrink-0"
               alt=""
-              src="/phplayfill.svg"
+              src="/phplayfill1.svg"
             />
             <b className="relative text-sm tracking-[0.02em] leading-[100%] font-dm-sans text-colors-white-100 text-left">
               Play Game
